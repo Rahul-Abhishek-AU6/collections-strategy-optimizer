@@ -1,0 +1,30 @@
+[
+  {
+    "id": "B001",
+    "days_past_due": 10,
+    "amount_overdue": 500,
+    "hardship_indicator": false,
+    "preferred_channel": "sms"
+  },
+  {
+    "id": "B002",
+    "days_past_due": 45,
+    "amount_overdue": 2000,
+    "hardship_indicator": false,
+    "preferred_channel": "email"
+  },
+  {
+    "id": "B003",
+    "days_past_due": 75,
+    "amount_overdue": 5000,
+    "hardship_indicator": true,
+    "preferred_channel": "agent_call"
+  },
+  {
+    "id": "B004",
+    "days_past_due": 5,
+    "amount_overdue": 100,
+    "hardship_indicator": false,
+    "preferred_channel": "sms"
+  }
+]
